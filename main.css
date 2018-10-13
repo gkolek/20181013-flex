@@ -6,7 +6,18 @@
     /* flex-flow: row-reverse wrap-reverse;
     width: 60px; */
     /* wrap: 60px; */
-    justify-content: space-around;
+    /* justify-content: space-around; */
+    justify-content: space-between;
+    height: 200px;
+    /* align-items: stretch; */
+    /* align-items: flex-start; */
+    /* align-items: flex-end; */
+    align-items: center;
+    /* align-items: baseline; */
+    flex-wrap: wrap;
+    /* align-content: space-between; */
+    align-content: space-around;
+    justify-content: space-between;
 }
 
 .flex-container div {
