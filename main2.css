@@ -1,5 +1,6 @@
 .container {
     background-color: #333;
+    padding: 10px;
 }
 
 nav{
@@ -32,3 +33,10 @@ a:hover {
     background: #555;
 }
 
+aside {
+    background-color: yellow;
+}
+
+article {
+    background-color: cyan;
+}
